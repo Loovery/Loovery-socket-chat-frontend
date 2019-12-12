@@ -13,3 +13,9 @@
 От вас
 - Исходный код в репозитории (github/gitlab/bitbucket)
 - пояснение для инсталяции и сборки
+
+## Запуск
+npm i
+npm start
+
+Перейти по ссылке [localhost](http://localhost:3000)
