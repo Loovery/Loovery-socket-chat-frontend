@@ -15,7 +15,7 @@
 - пояснение для инсталяции и сборки
 
 ## Запуск
-npm i
+npm i <br>
 npm start
 
 Перейти по ссылке [localhost](http://localhost:3000)
